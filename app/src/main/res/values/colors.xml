@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9E9E9E</color>
+    <color name="colorPrimaryDark">#616161</color>
+    <color name="colorAccent">#69F0AE</color>
+
+    <!-- Background color for the rock genre -->
+    <color name="genre_rock">#E57373</color>
+
+    <!-- Background color for the pop genre -->
+    <color name="genre_pop">#F06292</color>
+
+    <!-- Background color for the country genre -->
+    <color name="genre_country">#A1887F</color>
+
+    <!-- Background color for the alternative genre -->
+    <color name="genre_alternative">#FFF176</color>
+
+    <!-- Background color for the blues genre -->
+    <color name="genre_blues">#64B5F6</color>
+
+    <!-- Background color for the hip hop/rap genre -->
+    <color name="genre_hiphop">#BA68C8</color>
+
+    <!-- Background color for the hip metal genre -->
+    <color name="genre_metal">#90A4AE</color>
+
+    <!-- Background color for the punk genre -->
+    <color name="genre_punk">#FFB74D</color>
+
+    <!-- Background color for the jazz genre -->
+    <color name="genre_jazz">#4DB6AC</color>
+
+    <!-- Background color for the oldies genre -->
+    <color name="genre_oldies">#4DD0E1</color>
+
+    <!-- Background color for the soundtracks genre -->
+    <color name="genre_soundtracks">#AED581</color>
+</resources>

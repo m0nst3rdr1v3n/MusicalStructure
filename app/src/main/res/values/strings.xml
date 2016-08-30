@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+
+    <!--String for search view-->
+    <string name="search_music">Search Music</string>
+
+    <!-- Category name for alternative [CHAR LIMIT=20] -->
+    <string name="title_activity_alternative">AlternativeActivity</string>
+
+    <!-- Category name for blues [CHAR LIMIT=20] -->
+    <string name="title_activity_blues">Blues</string>
+
+    <!-- Category name for country [CHAR LIMIT=20] -->
+    <string name="title_activity_country">County</string>
+
+    <!-- Category name for hip hop [CHAR LIMIT=20] -->
+    <string name="title_activity_hiphop">Hip Hop/Rap</string>
+
+    <!-- Category name for jazz [CHAR LIMIT=20] -->
+    <string name="title_activity_jazz">Jazz</string>
+
+    <!-- Category name for metal [CHAR LIMIT=20] -->
+    <string name="title_activity_metal">Metal</string>
+
+    <!-- Category name for oldies [CHAR LIMIT=20] -->
+    <string name="title_activity_oldies">Oldies</string>
+
+    <!-- Category name for pop [CHAR LIMIT=20] -->
+    <string name="title_activity_pop">Pop</string>
+
+    <!-- Category name for punk [CHAR LIMIT=20] -->
+    <string name="title_activity_punk">Punk</string>
+
+    <!-- Category name for rock [CHAR LIMIT=20] -->
+    <string name="title_activity_rock">Rock</string>
+
+    <!-- Category name for soundtracks [CHAR LIMIT=20] -->
+    <string name="title_activity_soundtracks">Soundtracks</string>
+</resources>
