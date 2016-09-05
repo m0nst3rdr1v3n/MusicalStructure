@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".HipHopActivity">
+    tools:context="com.example.android.musicalstructure.MetalActivity">
 
-</RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/hiphop1"
+            style="@style/ArtistStyle"
+            android:text="Artist 1" />
+
+        <TextView
+            android:id="@+id/hiphop2"
+            style="@style/ArtistStyle"
+            android:text="Artist 2" />
+
+        <TextView
+            style="@style/ArtistDetail"
+            android:text="This page will have scrollable list of artists of this genre. Clicking on the artist will bring you to a detailed page. " />
+
+
+    </LinearLayout>
+</ScrollView>

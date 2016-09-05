@@ -10,14 +10,6 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <SearchView
-            android:id="@+id/search_view"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:inputType="textCapSentences"
-            android:iconifiedByDefault="false"
-            android:queryHint="@string/search_music" />
-
         <TextView
             android:id="@+id/genre_alternative"
             style="@style/GenreStyle"
@@ -55,11 +47,6 @@
             android:background="@color/genre_metal"
             android:text="Metal" />
 
-        <TextView
-            android:id="@+id/oldies_genre"
-            style="@style/GenreStyle"
-            android:background="@color/genre_oldies"
-            android:text="Oldies" />
 
         <TextView
             android:id="@+id/pop_genre"
@@ -84,9 +71,6 @@
             style="@style/GenreStyle"
             android:background="@color/genre_soundtracks"
             android:text="Soundtracks" />
-
-
-
 
 
     </LinearLayout>
