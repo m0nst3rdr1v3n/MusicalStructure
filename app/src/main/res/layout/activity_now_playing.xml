@@ -9,13 +9,13 @@
     <TextView
         android:id="@+id/nowPlaying"
         style="@style/NowPlaying"
-        android:text="Now Playing " />
+        android:text="@string/now_playing_text" />
 
     <TextView
         style="@style/Description"
-        android:text="This is where a detailed screen will be with album art and the toggle buttons to skip to next artist, pause and whatnot." />
+        android:text="@string/now_playing_description_one" />
 
     <TextView
         style="@style/Description"
-        android:text="This is where I can use an API such as: https://api.soundcloud.com to load music." />
+        android:text="@string/now_playing_description_two" />
 </LinearLayout>

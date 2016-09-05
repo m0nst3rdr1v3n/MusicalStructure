@@ -13,16 +13,15 @@
         <TextView
             android:id="@+id/jazz1"
             style="@style/ArtistStyle"
-            android:text="Artist 1" />
+            android:text="@string/artist_1" />
 
         <TextView
             android:id="@+id/jazz2"
             style="@style/ArtistStyle"
-            android:text="Artist 2" />
+            android:text="@string/artist_2" />
 
         <TextView
             style="@style/ArtistDetail"
-            android:text="This page will have scrollable list of artists of this genre. Clicking on the artist will bring you to a detailed page. " />
-
+            android:text="@string/artist_detail" />
     </LinearLayout>
 </ScrollView>

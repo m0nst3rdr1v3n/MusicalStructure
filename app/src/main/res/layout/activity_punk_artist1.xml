@@ -9,12 +9,12 @@
     <Button
         android:id="@+id/Play"
         style="@style/PushPlay"
-        android:text="Play" />
+        android:text="@string/button_play" />
 
     <TextView
         android:id="@+id/artistDetail"
         style="@style/ArtistDetail"
-        android:text="This is where the content of the artist chosen will be displayed. " />
+        android:text="@string/genre_artist_detail" />
 
 
 </LinearLayout>

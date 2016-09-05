@@ -14,63 +14,63 @@
             android:id="@+id/genre_alternative"
             style="@style/GenreStyle"
             android:background="@color/genre_alternative"
-            android:text="Alternative" />
+            android:text="@string/category_alternative" />
 
 
         <TextView
             android:id="@+id/genre_blues"
             style="@style/GenreStyle"
             android:background="@color/genre_blues"
-            android:text="Blues" />
+            android:text="@string/category_blues" />
 
         <TextView
             android:id="@+id/country_genre"
             style="@style/GenreStyle"
             android:background="@color/genre_country"
-            android:text="Country" />
+            android:text="@string/category_country" />
 
         <TextView
             android:id="@+id/hiphop_genre"
             style="@style/GenreStyle"
             android:background="@color/genre_hiphop"
-            android:text="Hip Hop/Rap" />
+            android:text="@string/category_hiphop_rap" />
 
         <TextView
             android:id="@+id/jazz_genre"
             style="@style/GenreStyle"
             android:background="@color/genre_jazz"
-            android:text="Jazz" />
+            android:text="@string/category_jazz" />
 
         <TextView
             android:id="@+id/metal_genre"
             style="@style/GenreStyle"
             android:background="@color/genre_metal"
-            android:text="Metal" />
+            android:text="@string/category_metal" />
 
 
         <TextView
             android:id="@+id/pop_genre"
             style="@style/GenreStyle"
             android:background="@color/genre_pop"
-            android:text="Pop" />
+            android:text="@string/category_pop" />
 
         <TextView
             android:id="@+id/punk_genre"
             style="@style/GenreStyle"
             android:background="@color/genre_punk"
-            android:text="Punk" />
+            android:text="@string/category_punk" />
 
         <TextView
             android:id="@+id/rock_genre"
             style="@style/GenreStyle"
             android:background="@color/genre_rock"
-            android:text="Rock" />
+            android:text="@string/category_rock" />
 
         <TextView
             android:id="@+id/soundtracks_genre"
             style="@style/GenreStyle"
             android:background="@color/genre_soundtracks"
-            android:text="Soundtracks" />
+            android:text="@string/category_soundtrack" />
 
 
     </LinearLayout>
