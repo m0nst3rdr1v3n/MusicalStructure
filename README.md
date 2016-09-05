@@ -1,4 +1,4 @@
 # MusicalStructure
 
 
-This project if for my Udacity Android Basics Nanodegree. 
+This project is for my Udacity Android Basics Nanodegree. 
