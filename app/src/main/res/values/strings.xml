@@ -11,7 +11,7 @@
     <string name="title_activity_blues">Blues</string>
 
     <!-- Category name for country [CHAR LIMIT=20] -->
-    <string name="title_activity_country">County</string>
+    <string name="title_activity_country">Country</string>
 
     <!-- Category name for hip hop [CHAR LIMIT=20] -->
     <string name="title_activity_hiphop">Hip Hop/Rap</string>
@@ -21,9 +21,6 @@
 
     <!-- Category name for metal [CHAR LIMIT=20] -->
     <string name="title_activity_metal">Metal</string>
-
-    <!-- Category name for oldies [CHAR LIMIT=20] -->
-    <string name="title_activity_oldies">Oldies</string>
 
     <!-- Category name for pop [CHAR LIMIT=20] -->
     <string name="title_activity_pop">Pop</string>
@@ -36,4 +33,68 @@
 
     <!-- Category name for soundtracks [CHAR LIMIT=20] -->
     <string name="title_activity_soundtracks">Soundtracks</string>
+
+    <!-- activity_main.xml music categories text-->
+
+    <!--Text to select alternative category-->
+    <string name="category_alternative">Alternative</string>
+
+    <!--Text to select blues category-->
+    <string name="category_blues">Blues</string>
+
+    <!--Text to select country category-->
+    <string name="category_country">Country</string>
+
+    <!--Text to select hip hop/rap category-->
+    <string name="category_hiphop_rap">Hip Hop/Rap</string>
+
+    <!--Text to select jazz category-->
+    <string name="category_jazz">Jazz</string>
+
+    <!--Text to select metal category-->
+    <string name="category_metal">Metal</string>
+
+    <!--Text to select pop category-->
+    <string name="category_pop">pop</string>
+
+    <!--Text to select punk category-->
+    <string name="category_punk">Punk</string>
+
+    <!--Text to select rock category-->
+    <string name="category_rock">Rock</string>
+
+    <!--Text to select soundtrack category-->
+    <string name="category_soundtrack">Soundtrack</string>
+
+    <!--Individual category activities to show artist 1 and artist 2 -->
+
+    <!-- Artist 1 string text-->
+    <string name="artist_1">Artist 1</string>
+
+    <!-- Artist 2 string text-->
+    <string name="artist_2">Artist 2</string>
+
+    <!-- Artist detail text for individual genre activity. -->
+
+    <!-- Text view to describe the artist activity. -->
+    <string name="artist_detail">This page will have scrollable list of artists of this genre. Clicking on the artist will bring you to a detailed page.</string>
+
+    <!-- Detailed activity for genre artist 1 and 2. -->
+
+    <!-- Button text. -->
+    <string name="button_play">Play</string>
+
+    <!-- Text for genre artist detail. -->
+    <string name="genre_artist_detail">This is where the content of the artist chosen will be displayed.</string>
+
+    <!-- Text for activity_now_playing.xml. -->
+
+    <!--Now playing textView. -->
+    <string name="now_playing_text">Now Playing</string>
+
+    <!--Now playing text description 1. -->
+    <string name="now_playing_description_one">This is where a detailed screen will be with album art and the toggle buttons to skip to next artist, pause and whatnot." </string>
+
+    <!--Now playing text description 2. -->
+    <string name="now_playing_description_two">This is where I can use an API such as: https://api.soundcloud.com to load music.</string>
 </resources>
