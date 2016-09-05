@@ -26,8 +26,6 @@
             android:label="@string/title_activity_jazz"/>
         <activity android:name=".MetalActivity"
             android:label="@string/title_activity_metal"/>
-        <activity android:name=".OldiesActivity"
-            android:label="@string/title_activity_oldies"/>
         <activity android:name=".PopActivity"
             android:label="@string/title_activity_pop"/>
         <activity android:name=".PunkActivity"
