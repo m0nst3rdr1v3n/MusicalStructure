@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context="com.example.android.musicalstructure.AlternativeArtist1">
 
-    <TextView
-        android:id="@+id/nowPlaying"
-        style="@style/NowPlaying"
-        android:text="@string/now_playing_text" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
-    <TextView
-        style="@style/Description"
-        android:text="@string/now_playing_description_one" />
+        <TextView
+            android:id="@+id/nowPlaying"
+            style="@style/NowPlaying"
+            android:text="@string/now_playing_text" />
 
-    <TextView
-        style="@style/Description"
-        android:text="@string/now_playing_description_two" />
-</LinearLayout>
+        <TextView
+            style="@style/Description"
+            android:text="@string/now_playing_description_one" />
+
+        <TextView
+            style="@style/Description"
+            android:text="@string/now_playing_description_two" />
+    </LinearLayout>
+</ScrollView>
