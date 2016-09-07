@@ -18,25 +18,96 @@
         <activity
             android:name=".BluesActivity"
             android:label="@string/title_activity_blues" />
-        <activity android:name=".CountryActivity"
-            android:label="@string/title_activity_country"/>
-        <activity android:name=".HipHopActivity"
-            android:label="@string/title_activity_hiphop"/>
-        <activity android:name=".JazzActivity"
-            android:label="@string/title_activity_jazz"/>
-        <activity android:name=".MetalActivity"
-            android:label="@string/title_activity_metal"/>
-        <activity android:name=".PopActivity"
-            android:label="@string/title_activity_pop"/>
-        <activity android:name=".PunkActivity"
-            android:label="@string/title_activity_punk"/>
-        <activity android:name=".RockActivity"
-            android:label="@string/title_activity_rock"/>
-        <activity android:name=".SoundtracksActivity"
-            android:label="@string/title_activity_soundtracks"/>
+        <activity
+            android:name=".CountryActivity"
+            android:label="@string/title_activity_country" />
+        <activity
+            android:name=".HipHopActivity"
+            android:label="@string/title_activity_hiphop" />
+        <activity
+            android:name=".JazzActivity"
+            android:label="@string/title_activity_jazz" />
+        <activity
+            android:name=".MetalActivity"
+            android:label="@string/title_activity_metal" />
+        <activity
+            android:name=".PopActivity"
+            android:label="@string/title_activity_pop" />
+        <activity
+            android:name=".PunkActivity"
+            android:label="@string/title_activity_punk" />
+        <activity
+            android:name=".RockActivity"
+            android:label="@string/title_activity_rock" />
+        <activity
+            android:name=".SoundtracksActivity"
+            android:label="@string/title_activity_soundtracks" />
         <activity
             android:name=".AlternativeActivity"
             android:label="@string/title_activity_alternative" />
+        <activity
+            android:name=".AlternativeArtist1"
+            android:label="Alternative Artist 1" />
+        <activity
+            android:name=".AlternativeArtist2"
+            android:label="Alternative Artist 2" />
+        <activity
+            android:name=".BluesArtist1"
+            android:label="Blues Artist 1" />
+        <activity
+            android:name=".BluesArtist2"
+            android:label="Blues Artist 2" />
+        <activity
+            android:name=".CountryArtist1"
+            android:label="Country Artist 1" />
+        <activity
+            android:name=".CountryArtist2"
+            android:label="Country Artist 2" />
+        <activity
+            android:name=".HipHopArtist1"
+            android:label="Hip Hop Artist 1" />
+        <activity
+            android:name=".HipHopArtist2"
+            android:label="Hip Hop Artist " />
+        <activity
+            android:name=".JazzArtist1"
+            android:label="Jazz Artist 1" />
+        <activity
+            android:name=".JazzArtist2"
+            android:label="Jazz Artist 2" />
+        <activity
+            android:name=".MetalArtist1"
+            android:label="Metal Artist 1" />
+        <activity
+            android:name=".MetalArtist2"
+            android:label="Metal Artist 2" />
+        <activity
+            android:name=".PunkArtist1"
+            android:label="Punk Artist 1" />
+        <activity
+            android:name=".PunkArtist2"
+            android:label="Punk Artist 2" />
+        <activity
+            android:name=".PopArtist1"
+            android:label="Pop Artist 1" />
+        <activity
+            android:name=".PopArtist2"
+            android:label="Pop Artist 2" />
+        <activity
+            android:name=".RockArtist1"
+            android:label="Rock Artist 1" />
+        <activity
+            android:name=".RockArtist2"
+            android:label="Rock Artist 2" />
+        <activity
+            android:name=".SoundtrackArtist1"
+            android:label="Soundtrack Artist 1" />
+        <activity
+            android:name=".SoundtrackArtist2"
+            android:label="Soundtrack Artist 2" />
+        <activity
+            android:name=".NowPlaying"
+            android:label="Now Playing"></activity>
     </application>
 
 </manifest>
